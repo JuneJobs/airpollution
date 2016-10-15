@@ -1,0 +1,29 @@
+{
+  "name": "airpollution",
+  "version": "0.0.1",
+  "description": "mesure air pollution data",
+  "main": "app.js",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "express": "^4.14.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneJobs/airpollution.git"
+  },
+  "keywords": [
+    "Qualcomm",
+    "Institute"
+  ],
+  "author": "JUNHEE PARK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneJobs/airpollution/issues"
+  },
+  "homepage": "https://github.com/JuneJobs/airpollution#readme"
+}
